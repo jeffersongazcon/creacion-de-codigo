@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\appvotacion\\gui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|solutionrelative:appvotacion\\gui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|c:\\users\\estudiante\\downloads\\p3\\mivotacion\\appvotacion\\bll\\serviciolugarvotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|solutionrelative:appvotacion\\bll\\serviciolugarvotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\appvotacion\\gui\\lugarvotaciongui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|solutionrelative:appvotacion\\gui\\lugarvotaciongui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\appvotacion\\bll\\serviciovotante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|solutionrelative:appvotacion\\bll\\serviciovotante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|c:\\users\\estudiante\\downloads\\p3\\mivotacion\\appvotacion\\entity\\votante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|solutionrelative:appvotacion\\entity\\votante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\appvotacion\\gui\\votantegui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|solutionrelative:appvotacion\\gui\\votantegui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\appvotacion\\entity\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|solutionrelative:appvotacion\\entity\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\appvotacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|solutionrelative:appvotacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\appvotacion\\entity\\lugarvotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|solutionrelative:appvotacion\\entity\\lugarvotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\appvotacion\\bll\\icrudlugarvotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|solutionrelative:appvotacion\\bll\\icrudlugarvotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\appvotacion\\bll\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAC1B21-E744-49A1-8F8D-4AF7F21BCBC9}|AppVotacion\\AppVotacion.csproj|solutionrelative:appvotacion\\bll\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Votante.cs",
+              "DocumentMoniker": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\ENTITY\\Votante.cs",
+              "RelativeDocumentMoniker": "AppVotacion\\ENTITY\\Votante.cs",
+              "ToolTip": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\ENTITY\\Votante.cs",
+              "RelativeToolTip": "AppVotacion\\ENTITY\\Votante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:41:11.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\GUI\\Menu.cs",
+              "RelativeDocumentMoniker": "AppVotacion\\GUI\\Menu.cs",
+              "ToolTip": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\GUI\\Menu.cs",
+              "RelativeToolTip": "AppVotacion\\GUI\\Menu.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T16:03:22.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LugarVotacionGUI.cs",
+              "DocumentMoniker": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\GUI\\LugarVotacionGUI.cs",
+              "RelativeDocumentMoniker": "AppVotacion\\GUI\\LugarVotacionGUI.cs",
+              "ToolTip": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\GUI\\LugarVotacionGUI.cs",
+              "RelativeToolTip": "AppVotacion\\GUI\\LugarVotacionGUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:34:33.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioLugarVotacion.cs",
+              "DocumentMoniker": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\BLL\\ServicioLugarVotacion.cs",
+              "RelativeDocumentMoniker": "AppVotacion\\BLL\\ServicioLugarVotacion.cs",
+              "ToolTip": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\BLL\\ServicioLugarVotacion.cs",
+              "RelativeToolTip": "AppVotacion\\BLL\\ServicioLugarVotacion.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:14:15.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioVotante.cs",
+              "DocumentMoniker": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\BLL\\ServicioVotante.cs",
+              "RelativeDocumentMoniker": "AppVotacion\\BLL\\ServicioVotante.cs",
+              "ToolTip": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\BLL\\ServicioVotante.cs",
+              "RelativeToolTip": "AppVotacion\\BLL\\ServicioVotante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T16:11:41.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VotanteGUI.cs",
+              "DocumentMoniker": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\GUI\\VotanteGUI.cs",
+              "RelativeDocumentMoniker": "AppVotacion\\GUI\\VotanteGUI.cs",
+              "ToolTip": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\GUI\\VotanteGUI.cs",
+              "RelativeToolTip": "AppVotacion\\GUI\\VotanteGUI.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T16:07:21.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LugarVotacion.cs",
+              "DocumentMoniker": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\ENTITY\\LugarVotacion.cs",
+              "RelativeDocumentMoniker": "AppVotacion\\ENTITY\\LugarVotacion.cs",
+              "ToolTip": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\ENTITY\\LugarVotacion.cs",
+              "RelativeToolTip": "AppVotacion\\ENTITY\\LugarVotacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:34:50.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\BLL\\ICrud.cs",
+              "RelativeDocumentMoniker": "AppVotacion\\BLL\\ICrud.cs",
+              "ToolTip": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\BLL\\ICrud.cs",
+              "RelativeToolTip": "AppVotacion\\BLL\\ICrud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:06:19.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICrudLugarVotacion.cs",
+              "DocumentMoniker": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\BLL\\ICrudLugarVotacion.cs",
+              "RelativeDocumentMoniker": "AppVotacion\\BLL\\ICrudLugarVotacion.cs",
+              "ToolTip": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\BLL\\ICrudLugarVotacion.cs",
+              "RelativeToolTip": "AppVotacion\\BLL\\ICrudLugarVotacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:07:03.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\ENTITY\\Persona.cs",
+              "RelativeDocumentMoniker": "AppVotacion\\ENTITY\\Persona.cs",
+              "ToolTip": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\ENTITY\\Persona.cs",
+              "RelativeToolTip": "AppVotacion\\ENTITY\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:09:32.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\Program.cs",
+              "RelativeDocumentMoniker": "AppVotacion\\Program.cs",
+              "ToolTip": "C:\\Users\\ESTUDIANTE\\Downloads\\P3\\MiVotacion\\AppVotacion\\Program.cs",
+              "RelativeToolTip": "AppVotacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T16:04:51.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

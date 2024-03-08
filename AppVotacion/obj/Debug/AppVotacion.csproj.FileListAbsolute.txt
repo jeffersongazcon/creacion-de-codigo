@@ -1,0 +1,46 @@
+C:\Users\Estudiantes\Downloads\Programacion3\2\Votacion\MiVotacion\AppVotacion\bin\Debug\AppVotacion.exe.config
+C:\Users\Estudiantes\Downloads\Programacion3\2\Votacion\MiVotacion\AppVotacion\bin\Debug\AppVotacion.exe
+C:\Users\Estudiantes\Downloads\Programacion3\2\Votacion\MiVotacion\AppVotacion\bin\Debug\AppVotacion.pdb
+C:\Users\Estudiantes\Downloads\Programacion3\2\Votacion\MiVotacion\AppVotacion\obj\Debug\AppVotacion.csproj.AssemblyReference.cache
+C:\Users\Estudiantes\Downloads\Programacion3\2\Votacion\MiVotacion\AppVotacion\obj\Debug\AppVotacion.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Downloads\Programacion3\2\Votacion\MiVotacion\AppVotacion\obj\Debug\AppVotacion.exe
+C:\Users\Estudiantes\Downloads\Programacion3\2\Votacion\MiVotacion\AppVotacion\obj\Debug\AppVotacion.pdb
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion\MiVotacion\AppVotacion\bin\Debug\AppVotacion.exe.config
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion\MiVotacion\AppVotacion\bin\Debug\AppVotacion.exe
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion\MiVotacion\AppVotacion\bin\Debug\AppVotacion.pdb
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion\MiVotacion\AppVotacion\obj\Debug\AppVotacion.csproj.AssemblyReference.cache
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion\MiVotacion\AppVotacion\obj\Debug\AppVotacion.csproj.CoreCompileInputs.cache
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion\MiVotacion\AppVotacion\obj\Debug\AppVotacion.exe
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion\MiVotacion\AppVotacion\obj\Debug\AppVotacion.pdb
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion2.0\MiVotacion\AppVotacion\obj\Debug\AppVotacion.csproj.AssemblyReference.cache
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion2.0\MiVotacion\AppVotacion\obj\Debug\AppVotacion.csproj.CoreCompileInputs.cache
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion2.0\MiVotacion\AppVotacion\obj\Debug\AppVotacion.exe
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion2.0\MiVotacion\AppVotacion\obj\Debug\AppVotacion.pdb
+C:\Users\Estudiantes\Documents\Visual Studio 2022\Lopez_02\HOYMiVotacion2.0\HOYMiVotacion2.0\MiVotacion\AppVotacion\bin\Debug\AppVotacion.exe.config
+C:\Users\Estudiantes\Documents\Visual Studio 2022\Lopez_02\HOYMiVotacion2.0\HOYMiVotacion2.0\MiVotacion\AppVotacion\bin\Debug\AppVotacion.exe
+C:\Users\Estudiantes\Documents\Visual Studio 2022\Lopez_02\HOYMiVotacion2.0\HOYMiVotacion2.0\MiVotacion\AppVotacion\bin\Debug\AppVotacion.pdb
+C:\Users\Estudiantes\Documents\Visual Studio 2022\Lopez_02\HOYMiVotacion2.0\HOYMiVotacion2.0\MiVotacion\AppVotacion\obj\Debug\AppVotacion.csproj.AssemblyReference.cache
+C:\Users\Estudiantes\Documents\Visual Studio 2022\Lopez_02\HOYMiVotacion2.0\HOYMiVotacion2.0\MiVotacion\AppVotacion\obj\Debug\AppVotacion.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Documents\Visual Studio 2022\Lopez_02\HOYMiVotacion2.0\HOYMiVotacion2.0\MiVotacion\AppVotacion\obj\Debug\AppVotacion.exe
+C:\Users\Estudiantes\Documents\Visual Studio 2022\Lopez_02\HOYMiVotacion2.0\HOYMiVotacion2.0\MiVotacion\AppVotacion\obj\Debug\AppVotacion.pdb
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion3.0\HOYMiVotacion3.0\MiVotacion\AppVotacion\bin\Debug\AppVotacion.exe.config
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion3.0\HOYMiVotacion3.0\MiVotacion\AppVotacion\bin\Debug\AppVotacion.exe
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion3.0\HOYMiVotacion3.0\MiVotacion\AppVotacion\bin\Debug\AppVotacion.pdb
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion3.0\HOYMiVotacion3.0\MiVotacion\AppVotacion\obj\Debug\AppVotacion.csproj.AssemblyReference.cache
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion3.0\HOYMiVotacion3.0\MiVotacion\AppVotacion\obj\Debug\AppVotacion.csproj.CoreCompileInputs.cache
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion3.0\HOYMiVotacion3.0\MiVotacion\AppVotacion\obj\Debug\AppVotacion.exe
+C:\Users\Jlope\source\repos\Trabajo\HOYMiVotacion3.0\HOYMiVotacion3.0\MiVotacion\AppVotacion\obj\Debug\AppVotacion.pdb
+C:\Users\ESTUDIANTE\Downloads\P3\MiVotacion\AppVotacion\bin\Debug\AppVotacion.exe.config
+C:\Users\ESTUDIANTE\Downloads\P3\MiVotacion\AppVotacion\bin\Debug\AppVotacion.exe
+C:\Users\ESTUDIANTE\Downloads\P3\MiVotacion\AppVotacion\bin\Debug\AppVotacion.pdb
+C:\Users\ESTUDIANTE\Downloads\P3\MiVotacion\AppVotacion\obj\Debug\AppVotacion.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE\Downloads\P3\MiVotacion\AppVotacion\obj\Debug\AppVotacion.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Downloads\P3\MiVotacion\AppVotacion\obj\Debug\AppVotacion.exe
+C:\Users\ESTUDIANTE\Downloads\P3\MiVotacion\AppVotacion\obj\Debug\AppVotacion.pdb
+C:\Users\Lenovo\Downloads\MiVotacion5.0\AppVotacion\bin\Debug\AppVotacion.exe.config
+C:\Users\Lenovo\Downloads\MiVotacion5.0\AppVotacion\bin\Debug\AppVotacion.exe
+C:\Users\Lenovo\Downloads\MiVotacion5.0\AppVotacion\bin\Debug\AppVotacion.pdb
+C:\Users\Lenovo\Downloads\MiVotacion5.0\AppVotacion\obj\Debug\AppVotacion.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\MiVotacion5.0\AppVotacion\obj\Debug\AppVotacion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\MiVotacion5.0\AppVotacion\obj\Debug\AppVotacion.exe
+C:\Users\Lenovo\Downloads\MiVotacion5.0\AppVotacion\obj\Debug\AppVotacion.pdb
